@@ -24,6 +24,10 @@ En esta sección se analizarán diferentes tipos de gráficos y se explicará c�
 
 ### 5. [Proyecto Final](Seccion_5/README.md)
 
+### 6. [Configuración Env Local](Seccion_6/README.md)
+
+En esta sección se describirá cómo configurar un ambiente local de python para el desarrollo de los proyectos.
+
 ## Referencias
 
 - [1] D. Donoho, "50 years of Data Science," Journal of Computational and Graphical Statistics, vol. 26, no. 4, pp. 745-766, 2017. [Online]. Available: https://www.tandfonline.com/doi/full/10.1080/10618600.2017.1384734
